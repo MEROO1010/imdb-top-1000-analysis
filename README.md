@@ -18,10 +18,7 @@ This project analyzes the **IMDb Top 1000 Movies and TV Shows dataset** to uncov
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter Notebook: `jupyter notebook notebooks/imdb_analysis.ipynb`
 
-## Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+
 
 ## Author
 Marwah Alsaggaf
